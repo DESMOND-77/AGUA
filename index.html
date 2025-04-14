@@ -136,17 +136,10 @@
   </div>
 
   <script src="js/jquery.js" defer></script>
-  <script src="js/jquery.easing-sooper.js" defer></script>
-  <script src="js/jquery.sooperfish.js" defer></script>
   <script src="js/image_fade.js" defer></script>
   <script>
     document.addEventListener('DOMContentLoaded', function () {
-      // Menu SooperFish
-      if (window.jQuery) {
-        jQuery('ul.sf-menu').sooperfish();
-      }
-
-      // Année courante dans le footer
+            // Année courante dans le footer
       document.getElementById('year').textContent = new Date().getFullYear();
     });
   </script>
