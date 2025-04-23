@@ -79,11 +79,9 @@ header {
   overflow: hidden;
   margin: auto;
   display: flex;
-  /* Nouveau */
   gap: 20px;
-  /* Nouveau */
   align-items: flex-start;
-  /* Nouveau */
+ 
 }
 
 /* Navigation */
