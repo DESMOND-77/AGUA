@@ -1,6 +1,6 @@
-# AG_support  
+# AGUA 
 
-Welcome to **AG_support**, your complete guide for a successful academic start! 🎓  
+Welcome to **AGUA**, your complete guide for a successful academic start! 🎓  
 
 Starting a new school can be both exciting and stressful. Between the registration process, finding housing, and opening a bank account, it’s easy to feel overwhelmed.  
 
